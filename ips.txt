@@ -13,6 +13,7 @@
   cracked.com 98.124.248.77
   sidereel.com 144.198.29.112
   stackoverflow.com 64.34.119.12
+  hackernews.com 216.92.13.27
 
  # Social networking
   facebook.com 69.171.224.11
