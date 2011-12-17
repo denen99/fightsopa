@@ -16,9 +16,26 @@
   216.92.13.27 hackernews.com
 
   # Social networking
-  69.171.224.11 facebook.com
   199.59.149.230 twitter.com
+  64.145.89.33 twimg0-a.akamaihd.net
   174.121.194.34 tumblr.com
+
+  # Facebook
+  69.171.228.11 facebook.com
+  69.171.228.11 www.facebook.com
+  69.171.228.11 login.facebook.com
+  69.171.228.11 apps.facebook.com
+  69.171.228.11 graph.facebook.com
+  69.171.228.11 static.ak.connect.facebook.com
+  69.171.228.11 developers.facebook.com
+  69.171.228.11 error.facebook.com
+  69.171.228.11 upload.facebook.com
+  69.171.228.11 vupload.facebook.com
+  69.171.228.11 secure.facebook.com
+  69.171.228.11 connect.facebook.com
+  69.171.228.11 channel.facebook.com
+  69.171.228.11 register.facebook.com
+  69.171.228.11 pixel.facebook.com
 
   # Search engine / Link sites:
   74.125.157.99 google.com
@@ -89,8 +106,8 @@
 
   # Manga sites
   208.89.221.24 batoto.net
-  62.75.183.27 Mangareader.net
-  173.192.36.120 Mangafox.com
+  62.75.183.27 mangareader.net
+  173.192.36.120 mangafox.com
   
   # Shopping
   72.21.211.176 amazon.com
@@ -99,7 +116,7 @@
   66.211.160.88 ebay.com
 
   # Reference
-  208.80.152.201 wikipedia.com
+  208.80.152.201 wikipedia.com wikipedia.org en.wikipedia.org
   193.200.150.137 anonymouse.org
   140.177.16.29 wolframalpha.com
   69.164.215.49 eyebleach.com
