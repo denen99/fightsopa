@@ -2,108 +2,108 @@
 # SOPA emergency list (a.k.a sites that got free advertisement from sopa)
 
   # Social media
-  reddit.com 72.247.244.88
-  digg.com 64.191.203.30
-  imgur.com 173.231.140.219
-  hotmail.com 65.55.72.135
-  theonion.com 97.107.137.164
-  hush.com 65.39.178.43
-  gamespot.com 216.239.113.172
-  ign.com 69.10.25.46
-  cracked.com 98.124.248.77
-  sidereel.com 144.198.29.112
-  stackoverflow.com 64.34.119.12
-  hackernews.com 216.92.13.27
+  72.247.244.88 reddit.com
+  64.191.203.30 digg.com
+  173.231.140.219 imgur.com
+  65.55.72.135 hotmail.com
+  97.107.137.164 theonion.com
+  65.39.178.43 hush.com
+  216.239.113.172 gamespot.com
+  69.10.25.46 ign.com
+  98.124.248.77 cracked.com
+  144.198.29.112 sidereel.com
+  64.34.119.12 stackoverflow.com
+  216.92.13.27 hackernews.com
 
- # Social networking
-  facebook.com 69.171.224.11
-  twitter.com 199.59.149.230
-  tumblr.com 174.121.194.34
+  # Social networking
+  69.171.224.11 facebook.com
+  199.59.149.230 twitter.com
+  174.121.194.34 tumblr.com
 
-# Search engine / Link sites:
-  google.com 74.125.157.99
-  yahoo.com 98.137.149.56
-  bing.com 65.55.175.254
-  torrentz.eu 46.19.137.189
-  torrentbutler.eu 209.44.99.122
-  filestube.com 149.13.65.52
-  watchseries.eu 85.9.47.34
-  tvlinks.com 208.223.219.206
-  1channel.ch 208.87.33.151
-  free-tv-video-online.me 89.187.142.52
-  tubeplus.me 93.114.46.163
+  # Search engine / Link sites:
+  74.125.157.99 google.com
+  98.137.149.56 yahoo.com
+  65.55.175.254 bing.com
+  46.19.137.189 torrentz.eu
+  209.44.99.122 torrentbutler.eu
+  149.13.65.52 filestube.com
+  85.9.47.34 watchseries.eu
+  208.223.219.206 tvlinks.com
+  208.87.33.151 1channel.ch
+  89.187.142.52 free-tv-video-online.me
+  93.114.46.163 tubeplus.me
 
-# Torrent sites
-  thepiratebay.org 194.71.107.15
-  mininova.com 80.94.76.5
-  btjunkie.com 93.158.65.211
-  demonoid.com 62.149.24.66
-  demonoid.me 62.149.24.67
-  tvtorrents.com 77.53.144.11
+  # Torrent sites
+  194.71.107.15 thepiratebay.org
+  80.94.76.5 mininova.com
+  93.158.65.211 btjunkie.com
+  62.149.24.66 demonoid.com
+  62.149.24.67 demonoid.me
+  77.53.144.11 tvtorrents.com
 
   # Live Streaming Content
-  stickam.com 67.201.54.151
-  blogtv.com 84.22.170.149
-  justin.tv 199.9.249.21
-  chatroulette.com 184.173.141.231
-  omegle.com 97.107.132.144
-  own3d.tv 208.94.146.80
+  67.201.54.151 stickam.com
+  84.22.170.149 blogtv.com
+  199.9.249.21 justin.tv
+  184.173.141.231 chatroulette.com
+  97.107.132.144 omegle.com
+  208.94.146.80 own3d.tv
 
   # Streaming sites
-  youtube.com 74.125.65.91
-  megavideo.com 174.140.154.32
-  gorillavid.com 178.17.165.74
-  videoweed.es 91.220.176.248
-  novamov.com 91.220.176.248
-  movshare.net 49.19.139.54
-  divxstage.eu 91.220.176.251
-  movpod.net 178.17.165.76
-  vidxden.com 184.164.144.110
-  videobb.com 173.199.123.19
-  vidbux 173.192.225.167
-  ovfile.com 173.249.145.57
-  videozer.com 173.199.127.184  
+  74.125.65.91 youtube.com
+  174.140.154.32 megavideo.com
+  178.17.165.74 gorillavid.com
+  91.220.176.248 videoweed.es
+  91.220.176.248 novamov.com
+  49.19.139.54 movshare.net
+  91.220.176.251 divxstage.eu
+  178.17.165.76 movpod.net
+  184.164.144.110 vidxden.com
+  173.199.123.19 videobb.com
+  173.192.225.167 vidbux
+  173.249.145.57 ovfile.com
+  173.199.127.184 videozer.com
 
-# Porn sites
-  redtube.com 209.222.138.10
-  spankwire.com 95.211.112.220
-  youporn.com 173.192.60.242
-  motherless.com 198.64.4.16
-  linkindexxx.com 146.82.201.229
-  xnxx.com 69.55.53.105
-  pornhub.com 146.82.204.113
+  # Porn sites
+  209.222.138.10 redtube.com
+  95.211.112.220 spankwire.com
+  173.192.60.242 youporn.com
+  198.64.4.16 motherless.com
+  146.82.201.229 linkindexxx.com
+  69.55.53.105 xnxx.com
+  146.82.204.113 pornhub.com
 
-# Filehosts/cyberlockers
-  megaupload.com 174.140.154.20   
-  mediafire.com 205.196.120.13
-  dropbox.com 199.47.217.179
-  fileshare.com 208.87.33.151
-  multiupload.com 95.211.149.7
-  uploading.com 195.191.207.40
-  warez-bb.org 31.7.57.13
-  hotfile.com 199.7.177.218
-  gamespy.com 69.10.25.46
-  warez.ag 178.162.238.136
-  putlocker.com 89.238.130.247
-  uploaded.to 95.211.143.200
+  # Filehosts/cyberlockers
+  174.140.154.20 megaupload.com
+  205.196.120.13 mediafire.com
+  199.47.217.179 dropbox.com
+  208.87.33.151 fileshare.com
+  95.211.149.7 multiupload.com
+  195.191.207.40 uploading.com
+  31.7.57.13 warez-bb.org
+  199.7.177.218 hotfile.com
+  69.10.25.46 gamespy.com
+  178.162.238.136 warez.ag
+  89.238.130.247 putlocker.com
+  95.211.143.200 uploaded.to
 
-#Manga sites
-  batoto.net 208.89.221.24
-  Mangareader.net 62.75.183.27
-  Mangafox.com 173.192.36.120
+  # Manga sites
+  208.89.221.24 batoto.net
+  62.75.183.27 Mangareader.net
+  173.192.36.120 Mangafox.com
   
-# Shopping
-  amazon.com 72.21.211.176
-  newegg.com 216.52.208.187
-  frys.com 209.31.22.39
-  ebay.com 66.211.160.88
+  # Shopping
+  72.21.211.176 amazon.com
+  216.52.208.187 newegg.com
+  209.31.22.39 frys.com
+  66.211.160.88 ebay.com
 
-  #Reference
-  wikipedia.com 208.80.152.201
-  anonymouse.org 193.200.150.137
-  wolframalpha.com 140.177.16.29
-  eyebleach.com 69.164.215.49
-  hackthissite.org 67.21.66.230
-  textbooknova.com 78.159.102.104
-  matrix.itasoftware.com 65.221.113.61
-  
+  # Reference
+  208.80.152.201 wikipedia.com
+  193.200.150.137 anonymouse.org
+  140.177.16.29 wolframalpha.com
+  69.164.215.49 eyebleach.com
+  67.21.66.230 hackthissite.org
+  78.159.102.104 textbooknova.com
+  65.221.113.61 matrix.itasoftware.com
+
