@@ -1,6 +1,6 @@
-#SOPA 
- 
-#Social #
+# SOPA emergency list (a.k.a sites that got free advertisement from sopa)
+
+# Social media
 72.247.244.88 reddit.com
 64.191.203.30 digg.com
 173.231.140.219 imgur.com
@@ -13,13 +13,30 @@
 144.198.29.112 sidereel.com
 64.34.119.12 stackoverflow.com
 216.92.13.27 hackernews.com
- 
-#Social #
-69.171.224.11 facebook.com
+
+# Social networking
 199.59.149.230 twitter.com
+64.145.89.33 twimg0-a.akamaihd.net
 174.121.194.34 tumblr.com
- 
-#Search #
+
+# Facebook
+69.171.228.11 facebook.com
+69.171.228.11 www.facebook.com
+69.171.228.11 login.facebook.com
+69.171.228.11 apps.facebook.com
+69.171.228.11 graph.facebook.com
+69.171.228.11 static.ak.connect.facebook.com
+69.171.228.11 developers.facebook.com
+69.171.228.11 error.facebook.com
+69.171.228.11 upload.facebook.com
+69.171.228.11 vupload.facebook.com
+69.171.228.11 secure.facebook.com
+69.171.228.11 connect.facebook.com
+69.171.228.11 channel.facebook.com
+69.171.228.11 register.facebook.com
+69.171.228.11 pixel.facebook.com
+
+# Search engine / Link sites:
 74.125.157.99 google.com
 98.137.149.56 yahoo.com
 65.55.175.254 bing.com
@@ -31,24 +48,24 @@
 208.87.33.151 1channel.ch
 89.187.142.52 free-tv-video-online.me
 93.114.46.163 tubeplus.me
- 
-#Torrent #
+
+# Torrent sites
 194.71.107.15 thepiratebay.org
 80.94.76.5 mininova.com
 93.158.65.211 btjunkie.com
 62.149.24.66 demonoid.com
 62.149.24.67 demonoid.me
 77.53.144.11 tvtorrents.com
- 
-#Live #
+
+# Live Streaming Content
 67.201.54.151 stickam.com
 84.22.170.149 blogtv.com
 199.9.249.21 justin.tv
 184.173.141.231 chatroulette.com
 97.107.132.144 omegle.com
 208.94.146.80 own3d.tv
- 
-#Streaming #
+
+# Streaming sites
 74.125.65.91 youtube.com
 174.140.154.32 megavideo.com
 178.17.165.74 gorillavid.com
@@ -62,8 +79,8 @@
 173.192.225.167 vidbux
 173.249.145.57 ovfile.com
 173.199.127.184 videozer.com
- 
-#Porn #
+
+# Porn sites
 209.222.138.10 redtube.com
 95.211.112.220 spankwire.com
 173.192.60.242 youporn.com
@@ -71,8 +88,8 @@
 146.82.201.229 linkindexxx.com
 69.55.53.105 xnxx.com
 146.82.204.113 pornhub.com
- 
-#Filehosts/cyberlockers #
+
+# Filehosts/cyberlockers
 174.140.154.20 megaupload.com
 205.196.120.13 mediafire.com
 199.47.217.179 dropbox.com
@@ -85,24 +102,24 @@
 178.162.238.136 warez.ag
 89.238.130.247 putlocker.com
 95.211.143.200 uploaded.to
- 
-#Manga sites
+
+# Manga sites
 208.89.221.24 batoto.net
-62.75.183.27 Mangareader.net
-173.192.36.120 Mangafox.com
- 
-#Shopping #
+62.75.183.27 mangareader.net
+173.192.36.120 mangafox.com
+
+# Shopping
 72.21.211.176 amazon.com
 216.52.208.187 newegg.com
 209.31.22.39 frys.com
 66.211.160.88 ebay.com
- 
-#Reference
-208.80.152.201 wikipedia.com
+
+# Reference
+208.80.152.201 wikipedia.com wikipedia.org en.wikipedia.org
 193.200.150.137 anonymouse.org
 140.177.16.29 wolframalpha.com
 69.164.215.49 eyebleach.com
 67.21.66.230 hackthissite.org
 78.159.102.104 textbooknova.com
 65.221.113.61 matrix.itasoftware.com
- 
+
